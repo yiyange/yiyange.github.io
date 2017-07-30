@@ -20,3 +20,5 @@ This project is essentially a collection of notes on things that I have learned 
 But who knows what it will become or fail to become.
 
 
+![](http://musicclipoftheday.files.wordpress.com/2014/02/joan_mitchell_city_landscape.jpg)
+_City Landscape, Joan Mitchell_
