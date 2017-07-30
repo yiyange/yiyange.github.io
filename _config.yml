@@ -21,8 +21,8 @@ github_username:  YiyanGe
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-minimal
-theme: minima
+theme: jekyll-theme-minimal
+# theme: minima
 plugins:
   - jekyll-feed
 
