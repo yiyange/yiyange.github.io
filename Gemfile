@@ -27,3 +27,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "kramdown", ">= 2.3.0"
+
+gem "kramdown-parser-gfm" 
