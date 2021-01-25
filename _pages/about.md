@@ -1,10 +1,7 @@
 ---
-# This is Home Page
-layout: frontpage
+layout: page
+title: Motivation
 ---
-
-
-# Motivation
 
 &nbsp;
 
