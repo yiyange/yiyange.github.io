@@ -13,11 +13,9 @@ layout: frontpage
 &nbsp;
 
 
-Life is chaotic. I find it fairly easy to lose focus, especially after finishing school. The tendency to feel content with day-to-day work is also alarming. After eight months of doing nothing, I finally set up this page.
+Life is chaotic. I find it fairly easy to lose focus; the tendency to feel content with day-to-day work is too real. 
 
-This project is essentially a collection of notes on things that I have learned or plan to learn that are related to my professional interests, including transportation planning, data science, and software development. 
-
-But who knows what it will become or fail to become.
+This project is essentially a collection of notes on things that I am learning or plan to learn that are related to my professional interests, such as transit, urban, stats, ml, and more. 
 
 
 ![](http://musicclipoftheday.files.wordpress.com/2014/02/joan_mitchell_city_landscape.jpg)
