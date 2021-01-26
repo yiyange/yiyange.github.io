@@ -9,4 +9,7 @@ Over the course of several months, I have gone through the key content of the [c
 
 Thus, I decided to use mind map to organize what I have learned. The process of creating this, which is still work-in-progress, has highlighted new connections, revealed gaps, as well as saved rooms for future learning. 
 
+In addition to the course content, this set of [class notes](https://ermongroup.github.io/cs228-notes/) is also helpful in providing another perspective.
+
 ![](../../../../images/PGM.jpg)
+
